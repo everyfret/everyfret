@@ -8,3 +8,6 @@ EveryFret is <a href="https://everyfret.com/">@everyfret</a> on all social media
 </br></br>
 EveryFret on YouTube:</br>
 <a href="https://everyfret.com">https://www.youtube.com/@everyfret</a>
+</br></br>
+EveryFret on Twitch:</br>
+<a href="https://everyfret.com">https://www.twitch.tv/everyfret</a>
